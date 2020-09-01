@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Spankie's GitHub Stats](https://github-readme-stats.vercel.app/api?spankie=danvixent&theme=buefy&show_icons=true&&line_height=40&count_private=true)
+![Spankie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spankie&theme=buefy&show_icons=true)
